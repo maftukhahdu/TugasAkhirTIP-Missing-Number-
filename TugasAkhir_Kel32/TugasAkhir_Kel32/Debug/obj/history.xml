@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 5.1.0 x86_64-w64-mingw32 -mcpu=cortex-m0 -mthumb -Wall -ffunction-sections -g -O0 -c -DNUC140VE3CN -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32\cmsis_lib\Include -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Library Nuvoton\Include -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Library Nuvoton\Include\NUC1xx-LB_002 -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32\cmsis_core -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Library Nuvoton -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32\cmsis_lib\Include\Driver -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32\cmsis_lib -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32 -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32\cmsis_lib\Include\System -ID:\Mata Kuliah\SEM 4\Praktikum Teknik Mikroprosesor\Lengkap\TugasAkhir_Kel32\cmsis_boot">
+      <target file="LCD_Driver.o" lastModified="16abfafb5a2">
+         <source file="..\..\..\..\..\Library Nuvoton\Src\NUC1xx-LB_002\LCD_Driver.c" lastModified="160c54dfd5e"/>
+      </target>
+      <target file="startup_NUC1xx.o" lastModified="16abfafaac1">
+         <source file="..\..\..\cmsis_boot\startup\startup_NUC1xx.c" lastModified="16abfac36af"/>
+      </target>
+      <target file="DrvGPIO.o" lastModified="16abfafafd6">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvGPIO.c" lastModified="16abfac36db"/>
+      </target>
+      <target file="ScanKey.o" lastModified="16abfafb0f0">
+         <source file="..\..\..\..\..\Library Nuvoton\Src\NUC1xx-LB_002\ScanKey.c" lastModified="136156c60f0"/>
+      </target>
+      <target file="Seven_Segment.o" lastModified="16abfafaea6">
+         <source file="..\..\..\..\..\Library Nuvoton\Src\NUC1xx-LB_002\Seven_Segment.c" lastModified="136156c60f0"/>
+      </target>
+      <target file="DrvSYS.o" lastModified="16abfafb203">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvSYS.c" lastModified="16abfac36a4"/>
+      </target>
+      <target file="main.o" lastModified="16ac8f040f6">
+         <source file="..\..\..\main.c" lastModified="16ac8f03cf0"/>
+      </target>
+      <target file="system_NUC1xx.o" lastModified="16abfafaa34">
+         <source file="..\..\..\cmsis_boot\system_NUC1xx.c" lastModified="16abfac36b1"/>
+      </target>
+      <target file="DrvSPI.o" lastModified="16abfafac7c">
+         <source file="..\..\..\cmsis_lib\Src\Driver\DrvSPI.c" lastModified="16abfac3690"/>
+      </target>
+      <target file="core_cm0.o" lastModified="16abfafb625">
+         <source file="..\..\..\cmsis_core\core_cm0.c" lastModified="16abfac3699"/>
+      </target>
+      <target file="Init.o" lastModified="16abfafab5c">
+         <source file="..\..\..\Init.c" lastModified="16abfafa6e1"/>
+      </target>
+      <target file="Ascii_Table.o" lastModified="16abfafb498">
+         <source file="..\..\..\..\..\Library Nuvoton\Src\NUC1xx-LB_002\Ascii_Table.C" lastModified="136156c5920"/>
+      </target>
+   </processor>
+</history>
